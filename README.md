@@ -1,1 +1,3 @@
 # Ruby-Racer
+
+This is an app from my first week on site at DBC. It is a Ruby racing game that automatically runs on the command line. To run the game, clone the repository and start a new game with "ruby ruby_racer.rb". You can also modify line 40 to change the number of players or line 42 to change the length of the board. The game is designed so that if a player overshoots the end of the board, they go back to the beginning of the board and then move the remainder of their turn.
